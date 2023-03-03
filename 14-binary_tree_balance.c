@@ -26,7 +26,7 @@ size_t binary_tree_measure(const binary_tree_t *tree)
 
 
 /**
- * binary_tree_balnace - mesures the balance factor of a binary tree
+ * binary_tree_balance - mesures the balance factor of a binary tree
  * @tree: a pointer to the root node
  * Return: always 0 (success)
  */
